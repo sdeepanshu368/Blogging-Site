@@ -1,0 +1,20 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/learntocode",
+    "prod_uri": "mysql://root:@localhost/learntocode",
+    "fb_url": "https://facebook.com/easycoding",
+    "tw_url": "https://twitter.com/easycoding",
+    "gh_url": "https://github.com/easycoding",
+    "blog_name": "EasyCoding",
+    "gmail_user": "gmail.gmail.com",
+    "gmail_password": "gmailpassword",
+    "about_text": "Hello my name is Deepanshu Sharma and This Blog site is created using Flask",
+    "no_of_posts": 2,
+    "signin_img": "signin.svg",
+    "admin_user": "Deepanshu",
+    "admin_password": "dev09pass",
+    "upload_location": "C:\\Users\\Intel\\PycharmProjects\\FlaskPyRP\\static\\assets\\img\\uploaded"
+  }
+}
